@@ -1,0 +1,5 @@
+Imię: Jan
+Nazwisko: Kowalski
+PESEL: 65010304521
+Data badania: 20.05.2019
+Komentarz: Komentarz do badania.
